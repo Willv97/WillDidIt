@@ -436,6 +436,7 @@ html {
   color: white;
 
   transition: all 0.3s ease;
+  margin-bottom: 5px;
 }
 
 #support .btn:hover {
